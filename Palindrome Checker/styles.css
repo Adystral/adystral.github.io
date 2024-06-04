@@ -1,0 +1,21 @@
+body {
+  font-family: monospace;
+  font-size: 30px;
+  background-color: rgb(34, 40, 49);
+  color: rgb(199, 199, 199);
+  text-align: center;
+}
+
+#userInput {
+  padding: 5px 10px;
+  font-family: monospace;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+#submitBtn {
+  padding: 5px 10px;
+  font-family: monospace;
+  font-size: 15px;
+  cursor: pointer;
+}

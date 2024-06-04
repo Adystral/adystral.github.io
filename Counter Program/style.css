@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(44, 44, 44);
+  font-family: monospace;
+  font-size: large;
+}
+
+#countLabel {
+  font-size: 60px;
+  color: rgb(204, 204, 204);
+}
+
+.counterContainer {
+  text-align: center;
+}
+
+.buttons{
+  padding: 10px 20px;
+  font-size: 15px;
+  font-family: monospace;
+  font-weight: 600;
+  background-color: rgb(35, 115, 190);
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.4s;
+  border-width: 3px;
+  border-color: rgb(172, 174, 175);
+  
+}
+.buttons:hover {
+  background-color: rgb(75, 102, 128);
+  border-color: rgb(155, 166, 177);
+}

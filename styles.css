@@ -1,0 +1,17 @@
+body {
+  font-family: monospace;
+  font-size: 30px;
+  background-color: rgb(34, 40, 49);
+  color: rgb(199, 199, 199);
+  text-align: center;
+}
+
+.links {
+  color: rgb(199, 199, 199);
+}
+.links:hover {
+  color: rgb(165, 225, 137);
+  /* color: rgb(165, 225, 137);
+  color: rgb(255, 237, 148);
+  color: rgb(110, 193, 255); */
+}

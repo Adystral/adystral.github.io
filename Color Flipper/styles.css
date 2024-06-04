@@ -1,0 +1,46 @@
+body {
+  font-family: monospace;
+  font-size: 25px;
+  background-color: rgb(34, 40, 49);
+}
+
+p {
+  color: white;
+}
+
+button {
+  font-family: monospace;
+  padding: 10px 30px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: solid;
+  border-color: whitesmoke;
+  cursor: pointer;
+}
+
+#slateGreyBtn {
+  background-color: rgb(21, 52, 72);
+  color: white;
+}
+
+#cadetBlueBtn {
+  background-color: rgb(60, 91, 111);
+  color: white;
+}
+
+#taupeBtn {
+  background-color: rgb(148, 137, 121);
+  color: white;
+}
+
+#slateGreyBtn:hover {
+  background-color: rgb(17, 41, 58);
+}
+
+#cadetBlueBtn:hover {
+  background-color: rgb(57, 85, 105);
+}
+
+#taupeBtn:hover {
+  background-color: rgb(134, 124, 109);
+}
