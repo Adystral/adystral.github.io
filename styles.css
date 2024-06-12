@@ -18,9 +18,10 @@ body {
 }
 
 .nav-links {
+  display: flex;
+  justify-content: space-around;
   color: rgb(199, 199, 199);
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 0 50px;
 }
 
 .gif-image {
