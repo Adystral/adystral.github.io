@@ -1,26 +1,28 @@
 body {
   font-family: monospace;
   font-size: 30px;
-  background-color: rgb(34, 40, 49);
-  color: rgb(199, 199, 199);
+  /* background-color: rgb(34, 40, 49); */
+  /* color: rgb(199, 199, 199); */
   text-align: center;
+  margin-top: -30px;
 }
 
-.links {
+/* .links {
   color: rgb(199, 199, 199);
-}
-.nav-links:hover,
-.links:hover {
+} */
+
+/* .nav-links:hover,
+ .links:hover {
   color: rgb(165, 225, 137);
-  /* color: rgb(165, 225, 137);
+  color: rgb(165, 225, 137);
   color: rgb(255, 237, 148);
-  color: rgb(110, 193, 255); */
-}
+  color: rgb(110, 193, 255); 
+} */
 
 .nav-links {
   display: flex;
   justify-content: space-around;
-  color: rgb(199, 199, 199);
+  /* color: rgb(199, 199, 199); */
   padding: 0 50px;
 }
 
@@ -32,4 +34,48 @@ body {
 .gif-image1 {
   border-radius: 300px;
   max-width: 200px;
+} 
+
+
+body {
+  color: #fff;
+  background-color: #0a1d33; /* Dark blue base color */
+  background-image:
+    radial-gradient(at 15% 85%, hsla(220, 90%, 20%, 1) 0px, transparent 50%), /* Dark blue */
+    radial-gradient(at 85% 15%, hsla(200, 80%, 30%, 1) 0px, transparent 50%), /* Medium blue */
+    radial-gradient(at 30% 40%, hsla(190, 100%, 40%, 1) 0px, transparent 50%), /* Bright blue */
+    radial-gradient(at 70% 60%, hsla(170, 70%, 35%, 1) 0px, transparent 50%), /* Greenish blue */
+    radial-gradient(at 50% 80%, hsla(240, 60%, 40%, 1) 0px, transparent 50%), /* Purple blue */
+    radial-gradient(at 40% 20%, hsla(210, 60%, 50%, 1) 0px, transparent 50%), /* Light blue */
+    radial-gradient(at 75% 75%, hsla(280, 60%, 35%, 1) 0px, transparent 50%), /* Indigo blue */
+    radial-gradient(at 20% 50%, hsla(150, 80%, 35%, 1) 0px, transparent 50%), /* Soft green */
+    radial-gradient(at 60% 25%, hsla(330, 70%, 45%, 1) 0px, transparent 50%); /* Soft pink */
+  min-height: 100vh;
+}
+
+/* Text colors */
+h1, h2, h3, h4, h5, h6 {
+  color: #cce7ff; /* Light blue for headings */
+}
+
+p {
+  color: #e0f7ff; /* Lighter blue for paragraphs */
+}
+
+a {
+  color: #daecff; /* Bright blue for links */
+  text-decoration: underline;
+  transition: color 0.20s;
+}
+
+a:hover {
+  color: #002a53; /* Lighter blue for hovered links */
+}
+
+strong {
+  color: #ffffff; /* White for strong text */
+}
+
+em {
+  color: #b3d9ff; /* Soft blue for emphasized text */
 }

@@ -2,6 +2,7 @@ body {
   font-family: monospace;
   font-size: 25px;
   background-color: rgb(34, 40, 49);
+  text-align: center;
 }
 
 p {
