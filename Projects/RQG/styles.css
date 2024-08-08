@@ -1,0 +1,37 @@
+body {
+  font-family: monospace;
+  font-size: 30px;
+  background-color: rgb(34, 40, 49);
+  color: rgb(199, 199, 199);
+  text-align: center;
+}
+
+#title {
+  font-weight: 300;
+}
+
+button {
+  padding: 10px 20px;
+  font-family: monospace;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: 450;
+  background-color: rgb(60, 91, 111);
+  border: solid;
+  border-color: white;
+  border-radius: 30px;
+  color: white;
+  transition: background-color 0.25s;
+}
+button:hover {
+  background-color: rgb(21, 52, 72);
+}
+
+#quote {
+  font-weight: 500;
+  color: rgb(199, 199, 199);
+}
+
+.quote {
+  min-height: 80px;
+}
