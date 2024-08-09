@@ -439,6 +439,10 @@ button:hover {
     font-size: 16px;
     padding: 12px 24px;
   }
+
+  .logo {
+    margin-left: 0;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -459,5 +463,9 @@ button:hover {
   
   .contact-div i {
     margin: 20px 0;
+  }
+
+  .logo {
+    margin-left: 0;
   }
 }
