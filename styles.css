@@ -79,7 +79,7 @@ a:hover {
 
 /* button */
 
-button {
+button, .try-btn, .btn-link, .nav-btns {
   background-color: transparent; 
   color: #cce7ff; 
   padding: 15px 30px; 
@@ -91,11 +91,16 @@ button {
   cursor: pointer; 
   transition: all 0.2s ease-in-out; 
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+
+  display: inline-block; 
+  text-decoration: none;
 }
 
-button:hover {
+button:hover, .try-btn:hover, .btn-link:hover, .nav-btns:hover {
   transform: translateY(-3px); /* Move the card up */
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Enhance the shadow */
+
+  color: #99ccff;
 }
 
 /* nav */
