@@ -1,6 +1,7 @@
 # 👨‍💻 Personal Developer Portfolio
 
 A multi-page, responsive portfolio website built to showcase my technical projects, coordinate professional communication, and demonstrate core web development fundamentals.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ## 🔗 Live Demo
 [View Live Portfolio](https://adystral.github.io)
@@ -11,19 +12,10 @@ A multi-page, responsive portfolio website built to showcase my technical projec
 - **Responsive Design:** Ensures a seamless viewing experience across desktop and mobile devices.
 
 ## 🛠️ Tech Stack
-- **Frontend:** Pure HTML5, CSS3, Vanilla JavaScript
-- **Hosting:** GitHub Pages
+- **Frontend:** HTML5, CSS3, JavaScript(ES6+)
+- **Frameworks/Libraries:** MERN (Learning), Tailwind CSS (Learning)
+- **Hosting:** Vercel, GitHub Pages
 
 ## 📦 Process & Execution (Ownership)
 - **Structured Organization:** Built entirely without frameworks to solidify a foundational understanding of CSS layouts and semantic HTML. 
 - **Professional Presentation:** Designed to act as a digital resume, emphasizing clear communication, structured formatting, and easy access to contact information and project repositories.
-
-## ⚙️ How to Run Locally
-```bash
-# Clone the repository
-git clone https://github.com/Adystral/Adystral.github.io.git
-
-# Open the project directory
-cd Adystral.github.io
-
-# Open index.html in your browser or run via Live Server
