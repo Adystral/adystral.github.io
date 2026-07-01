@@ -1,6 +1,7 @@
 # 👨‍💻 Personal Developer Portfolio
 
 A multi-page, responsive portfolio website built to showcase my technical projects, coordinate professional communication, and demonstrate core web development fundamentals.
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ## 🔗 Live Demo
