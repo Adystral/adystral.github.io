@@ -2,8 +2,6 @@
 
 A multi-page, responsive portfolio website built to showcase my technical projects, coordinate professional communication, and demonstrate core web development fundamentals.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
 ## 🔗 Live Demo
 [View Live Portfolio](https://adystral.github.io)
 
@@ -16,6 +14,8 @@ A multi-page, responsive portfolio website built to showcase my technical projec
 - **Frontend:** HTML5, CSS3, JavaScript(ES6+)
 - **Frameworks/Libraries:** MERN (Learning), Tailwind CSS (Learning)
 - **Hosting:** Vercel, GitHub Pages
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongodb,expressjs,nodejs,tailwindcss)](https://skillicons.dev)
 
 ## 📦 Process & Execution (Ownership)
 - **Structured Organization:** Built entirely without frameworks to solidify a foundational understanding of CSS layouts and semantic HTML. 
